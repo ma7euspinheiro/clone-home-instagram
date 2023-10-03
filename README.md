@@ -14,5 +14,5 @@ Tecnologias e funcionalidades utilizadas:
   <img alt="Instagram Home Mobile" src="home-instagram-mobile.png">
 </p>
 
-Confira o resultado final <a href="https://ma7euspinheiro.github.io/clone-home-instagram/">clicando aqui</a>
+
 
